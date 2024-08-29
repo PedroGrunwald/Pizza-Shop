@@ -23,13 +23,14 @@
     "react-helmet-async": "^2.0.5",
     "react-hook-form": "^7.53.0",
     "react-router-dom": "^6.26.1",
+    "sonner": "^1.5.0",
+    "sooner": "^1.1.4",
     "sort-by": "^1.2.0",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "@rocketseat/eslint-config": "^2.2.2",
     "@types/node": "^22.5.1",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
